@@ -1,2 +1,11 @@
-#About Me
-This is how to edit
+## About Me
+
+My name is Kiishi Ayoola and I am in my third year at unc charlotte majoring in mechanical engineering. I have experience working for savannah river site as a mechanical engineering intern where I helped design of modify mechanical systems, review pumps, valves, piping tanks, mixers, HVAC equipment and other plant equipment
+
+I chose mechanical engineering as my major because I was always interested in how thinks operate and how they can be designed or improved. I enjoyed solving problems (especially math), working with technology, and using math and science to create practical solutions. mechanical engineering gives me the opportunity to learn more about many different areas, including structures, energy, and mechanical systems. I also like the field because it offers a wide variety of career jobs and allows me to work on real-world projects that can make a difference for the future. Overall, I chose mechanical engineering because it combines my interests in problem-solving, creativity, and technology while giving me the skills to build a successful career in mechanical engineering.
+
+My dream career is to work on aircrafts and learn how they are designed, built, and operated. I was always fascinated by how airplanes can fly and how engineers use mathematics and physics to make them safe and reliable. I believe that mechanical engineering will help me gain the knowledge and skills to understand important areas such as aerodynamics, propulsion, and mechanical systems. I believe that mechanical engineering is a good major for me because it combines my interest in aircrafts with my passion for problem-solving and engineering
+## What does it mean to defend an Engineering Decision?
+What I believe to defend an engineering decision is to clearly explain and support why they chose a particular solution or design first. An engineer should be able to use calculations, data, safety requirements, and their principles to justify their decision. This also means you have to be prepared to answer questions, consider alternative solutions, and explain the different effects of the decision. Defending an engineering decision is important because engineers are responsible for making choices that are safe, reliable, and practical.
+
+I spent about 5 hours on A1
