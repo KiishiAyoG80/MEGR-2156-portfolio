@@ -22,7 +22,7 @@ Evidence of Reasoning: Project descriptions show context about engineering probl
 
 Professional Tone: The language is good for an academic and engineering audience. The technical descriptions provided focus on engineering objectives and results making the material more appropriate for an employer reviewing experience.
 ## Task B:  Product Analysis
-
+Product analysis: Staple remover
 
 ## Decide
 
