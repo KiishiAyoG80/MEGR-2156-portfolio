@@ -1,5 +1,8 @@
 # A1 – Build your Professional Portfolio
 ## objective
+
+Our goal is to analyze problems using appropriate models, make justified decisions based on a clear criteria, and communicate the reasoning clearly enough for other people to recreate the work shown
+
 ## Analyze
 ## Task A:  Portfolio Analysis
 Portfolio1-Andrew Ng's Engineering portfolio
