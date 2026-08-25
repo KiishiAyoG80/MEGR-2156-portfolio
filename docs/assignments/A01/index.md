@@ -63,13 +63,13 @@ d. Patent research: a patent that describes a similar two-lever staple remover i
 
 Alternative solutions: One alternative for removing staples is a blade type. This type uses a pointed blade that slides underneath the staple and pulls it out as the tool is moved. Another type are pliers. This type uses two jaws that pivot toward each other like pliers. the jaws grip the staple and pull it from the paper.
 
-Design Decision
+Design Decision: one important design decision in the patented two-lever staple remover is the use of tapered surfaces on the extraction jaws. I think that the engineer chose this geometry because it allows the staple to be lifted progressively instead of being pulled straight upward all at once. another important design decision is the long lever handles; the handle places the user's finger farther from the pivot than the staple contact point resulting in an increase in the input moment and therefore increasing the mechanical advantage. Overall, the staple remover is the simpler example of mechanical engineering because its geometry directly determines how efficiently it converts the user's force into the force required to remove a staple.
 
 ## Decide
 
 Homepage Identity: The homepage identifies this site as an engineering portfolio and explains what type of engineering work the reader will find and the documentation standard used through the portfolio. This info is for an employer, instructor, or engineering colleague who may be reviewing the portfolio for the first time and needs to know its purpose without searching through individual assignments. The homepage prioritizes the portfolio's contents and engineering documentation rather than personal background.
 
-One Intentional Customization: I will customize the section labels in the portfolio navigation so that they can describe the purpsoe of each section using concise engineering terminology. This change satisfies the requirement for navigability because the reader should be able to identify where different types of work are located without looking a multiple page. The template labels provide the require structure.
+One Intentional Customization: I will customize the section labels in the portfolio navigation so that they can describe the purpose of each section using concise engineering terminology. This change satisfies the requirement for navigability because the reader should be able to identify where different types of work are located without looking a multiple page. The template labels provide the require structure.
 
 Documentation Standard: For each assignment entry, I will document the engineering problem, methods, and calculation so that another engineering student or colleague and can understand and evaluate the work without additional explanation.
 
