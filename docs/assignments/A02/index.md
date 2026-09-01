@@ -54,6 +54,23 @@ I started by setting up the allowable shear relationship between the shear allow
 
 After finding the pin size, I calculated the combined weight of the pin by treating each as a cylinder and finding their volume using the calculated area and the pin length of my design. I multiplied volume of one pin and multiplied by the total number of pins i nthe truss, which is 4.
 
+## 3D Modeling
+
+<img width="922" height="791" alt="image" src="https://github.com/user-attachments/assets/fd6094fd-5b1f-4074-aeb5-bdfd4b8b5794" />
+
+
+<img width="395" height="220" alt="image" src="https://github.com/user-attachments/assets/61c02121-a89b-4761-89d0-1745b8a16840" />
+
+<img width="417" height="475" alt="image" src="https://github.com/user-attachments/assets/4414b3e9-07a9-47e7-99fa-08cc25826ac8" />
+
+<img width="565" height="391" alt="image" src="https://github.com/user-attachments/assets/01a709c9-8521-4b26-b309-3935c6c59458" />
+
+<img width="647" height="397" alt="image" src="https://github.com/user-attachments/assets/dfe89c03-e2ee-4daf-b4c6-115a3e1fe419" />
+
+## Link to parts
+https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=2d9047b7a4&attid=0.2&permmsgid=msg-a:r5661094913588552029&th=1a059e33dcca4bf3&view=att&disp=safe&realattid=f_mthsptze0&zw&saddbat=ANGjdJ8_DjZofr0yImyFVotc2wX1mPzz1vm0JZKpmQIipFmZWK7_MmMb7YeTynjh-kfR34oagd0Q4rWdF7u84wqNuIOwlOygp20S3Wr7im4zr_w4NuMOhfXXhBrNlLjUGdBQI0nF-gmPfe4v-kKjiF7Etq2XLqV-62IiAFpP0dKkvfulJaLMDuvptKkI9wa-nYSApppPx86XSFGINhQYxM-UHCyDqzm_97V6tE1Mgme4_g9rpxdiSY6NwwDwPPJmrvILL4d-3zE6NLmGkYf62TvVW5WH5xbEIUKo8P_geOAGtGgBoJuqYno6bVGlurj59pQwxkVpfDxWtdPikMOXSphrdDzDUanBTCtwhC0L0e6p99usFxkqpuNtY95xCqgM9d-kS8-M7wAO7lFHvGY55rvmCJ3_09GRJopKSvSBtTDqjeOkpcjqaqNWUJ7MMLRAStMB362mxqY9ReEO5j6gBcQmNC2LIKHpEXiwh8zjG_fBtdMSPhTLnINDv8Im_h1GXMEF64ijqhhmT6mxC326wDBwQxcqXh2Eao5K6TJGeA1dXEA_YGdNcuzmNZm-D2SEIzIbiB3Xeyu6oJd701KTgEdEuVrNfV7hTf3h2bHVBRunF68dPouLCb6vVH77A6PkPJbNg1Yl3DxDadEcUKGmsm0nk9l1ygAQczdElfGW6l3RNdhlozrtOJUYqpbqmLJbMa0mESNhZ7MUY71OddV0S3yZbELUgSoBwRPlOkQroLE7y3Vja6suTVNKTa8L8hzuvP5CARt4F7FiN9gsWBT4O2lTNDl7ZB1ccRoMGwLSXk3bcjgV5p3bQbRk5OEQa-SXW7l96ns2GresM-2qCHnEICh4IBNOPK9Po9Iy7FHReZtItzHJvuAdrru1Tc-SfDi-z1FAldznbAuQxvER7wR7z47zmkLnakwfWuk4J3L46326jRLdgJkavnG5ABcKnpt-ru_pEFD_pmO3R-MsOYHAvOjzZReZ57roI7aRdftRUo6-O7805mBMskRmEex6-XMQt0fQW4gCBinbX07SdnLbDp1u-aJkCa-lFkNWlbwj0qmy1vXjxLfdKnKAfRPdFN1iQj26RLj7SnCv04qSJdeP
+
+https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=2d9047b7a4&attid=0.1&permmsgid=msg-a:r5661094913588552029&th=1a059e33dcca4bf3&view=att&disp=safe&realattid=f_mthsptzo1&zw&saddbat=ANGjdJ_cY2EoCpdxuUsT4y3Nd0zdgH_hso6aJzBLaaOLgkCYM6NCvqnMALaFpf29hoo2WZW2gFydbG0F3rB7o9RwU3RP-eLcuhLRZf9C_Ld-Nq2fTmEJ_ZDHoxNG6qdsSmXsIGU34wq_V8YcYBn_FD6636uY_TwJhYoNbjxpfoifX7_MsBlIH7TKAEn5NngRIhIJEMnjOphqsSdyEuo0U8BLCA4gq3vzIZSDO9mPE7EJ8amafmVOSSYKXllC3Mnf0KLFCQuxkCD-MGEHRLO1YPyVmgglJ9A2r8KTRNKa4Bg5Tp3LibyR-oLfQs9dUeVUFOZP_Z41SClm90-8wF7lqao9rldzmqgLxCBRHSjmsRzVUx0m86z0YVAE_x7XxtlAvUr7XO_yW0d1BpDsRxAg9gY0bQnQ5t1owgdBEExchZQ4WIZHImSsya41Dg0sf_fiFAONlRQpHajcXC2gZLV5bTtu5Qkkju5Vw8KAHgB_yOMyjOUN6qt1VdEcy43GNj_0wQmmbXT5t0hf0qbbKJbmCL-lnSlfsJafePzoEY9i0AIBtokuAbrUSs0mgLVy5g1w7QrVs3scpDeafbcA0QvSk7DiB4SDm4AY55JNbG-5XAPu8WYuuvdxLeoWqkc5WGd6_mGm1PUyV5oWSNgVOkPE-JecINKg51xITNgwqxqahYCfzVbyinlWixR4cYlqEOweLViQFWfPkueZ-83DDneW8jD_62Or0D_fp0Z6q0Mr1bTZZdTz_s9gqB8Myqzs1bDi9GCAkmT5umxURLuMYrCkeCEnTx4-A7Kh9YlnqFs_ouofqYgAsEgv4jN1glVpJyanXiBpcLga30v-RW6cVkdDJ3GUsfw-dJMKOaFPbh_s5NWww9O2c0Z6nl48xVsO0RMLfKLuJcpsNtXzw1mjgQc67HfJSmwYnPNbnR6HWIObfkDD-vUAd_ucBPwQTf4aXXRJFEX9pUF9lPwFp8Dqr6W2pONttdZ8nWo_QqMU4_Z5CCBbLfHmPnaAWhiOiFUz5865IPgxw4EHYqpSfUfpQA0u8ezSN6xHs4q9_XugeKQJPPqxDEBkG3z03MoidKTP4WTmIWEqLinOqmUnxYDRldQ2
 
 ## Engineering lessons Learned
 
