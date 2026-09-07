@@ -27,9 +27,30 @@ For the final design, I created a scenario that involves adding a hole near the 
 
 For the final design, I created a scenario that involves adding a hole near the end of the bar. Without a hole, the stress is 7.0ksi. However, the local stress becomes higher with the hole because the hole blocks the load path. Using the stress concentration factor (Kt = stress max/ stress nominal), I found the stress max, but I needed to find the max stress around the hole so I used the FEA stress map to find it. I then compared the maximum stress against the factory safety stress to determine if the design meet the required factory of safety 
 
+## CAD Design
 
-## Decide
+<img width="900" height="408" alt="image" src="https://github.com/user-attachments/assets/0caa0039-42a3-47b3-b2ef-ce2894f5d2c2" />
 
+After calculating all my design values for the bar, I began putting them into the global variables tab so that the values of the bar are secure and that nothing would change if I set a value wrong. These values included my diameter, force, Young's modulus, length, and area.
 
-## Communicate
+<img width="492" height="467" alt="image" src="https://github.com/user-attachments/assets/c58f59a5-dad7-4bc4-a677-a512848e72b2" />
 
+To start on my design, I made a sketch of the circular bar with a diameter of 0.3 inches. This was simple because I selected the diameter from the smart dimension function and set the diameter.
+
+<img width="920" height="676" alt="image" src="https://github.com/user-attachments/assets/d1cdbbd9-b78a-491b-a6f5-21b018c089a9" />
+
+I selected the Extrude option which let me set the length of the bar which makes a 3D circular cross-section bar that I can use in my design process.
+
+<img width="930" height="758" alt="image" src="https://github.com/user-attachments/assets/3b38827e-57f9-480a-8d04-d75624e31bbf" />
+
+Before I could start on the simulation, I had to change the material to the required aluminum allow. This step was done by editing the properties of the bar.
+
+<img width="546" height="686" alt="image" src="https://github.com/user-attachments/assets/34a534de-3e76-4b8a-9319-fb6a503790b6" />
+<img width="272" height="337" alt="image" src="https://github.com/user-attachments/assets/a82dc4e4-21ed-4ee4-bd06-4d57bc48a065" />
+
+To start the simulation, I went to the simulation tab to do a study on the bar. I selected the front face of the bar and made it a fixed support as show in the picture given for this assignment. I then made an external load at about 3/4 of the bar going away from the fixed point (load- purple arrows). This helps simulate the idea of stress and displacement of a bar.
+
+<img width="1150" height="610" alt="image" src="https://github.com/user-attachments/assets/406f44c7-ca0d-401d-b678-ef7d3fbd90c9" />
+<img width="1298" height="738" alt="image" src="https://github.com/user-attachments/assets/f4aa24fc-b959-445f-8ae4-ed79862c47ef" />
+
+To conclude this assignment, I did a run of the simulation does not see how the bar I designed stood up to the for applied. So, I used 500lbf towards the end of the bar which falls into the allowable range for load. The images that I show represent the displacement map and stress map. The displacement map is show across the bar while the stress map is being applied to the entire bar. 
