@@ -53,4 +53,4 @@ To start the simulation, I went to the simulation tab to do a study on the bar. 
 <img width="1150" height="610" alt="image" src="https://github.com/user-attachments/assets/406f44c7-ca0d-401d-b678-ef7d3fbd90c9" />
 <img width="1298" height="738" alt="image" src="https://github.com/user-attachments/assets/f4aa24fc-b959-445f-8ae4-ed79862c47ef" />
 
-To conclude this assignment, I did a run of the simulation does not see how the bar I designed stood up to the for applied. So, I used 500lbf towards the end of the bar which falls into the allowable range for load. The images that I show represent the displacement map and stress map. The displacement map is show across the bar while the stress map is being applied to the entire bar. 
+To conclude this assignment, I did a run of the simulation to see how the bar I designed stood up to the for applied. So, I used 500lbf towards the end of the bar which falls into the allowable range for load. The images that I show represent the displacement map and stress map. The displacement map is show across the bar while the stress map is being applied to the entire bar. 
