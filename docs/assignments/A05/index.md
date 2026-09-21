@@ -41,6 +41,14 @@ For this feature, the bracket was analyzed using cantilever deflection relations
 <img width="496" height="632" alt="image" src="https://github.com/user-attachments/assets/5e13c719-dc22-442d-bd63-69c48ff69be9" />
 <img width="542" height="693" alt="image" src="https://github.com/user-attachments/assets/77c425e1-eb1b-4237-9977-9b1f1880f462" />
 
+## Isometric View
 
-## Communicate
+After finding the final dimensions from both analyses, I drew Multiview sketches to represent the geometry of the bracket. I created separate sketches that were produced for the stress-based and stiffness-based designs to show the differences in required dimensions.
+<img width="531" height="522" alt="image" src="https://github.com/user-attachments/assets/dc1f0dc0-6823-4119-a69e-2dc1c19f516c" />
+<img width="558" height="495" alt="image" src="https://github.com/user-attachments/assets/c81ada93-844b-49e4-ab56-157551f97404" />
+
+
+## Lessons learned
+
+This assignment took me 5 hours and helped me understand the difference between calculating dimensions under stress analysis and stiffness analysis. I now know the importance of checking the strength and deflection when designing mechanical components, especially when working with materials that can reveal deformation.
 
